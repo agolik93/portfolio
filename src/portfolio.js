@@ -18,16 +18,21 @@ const about = {
 
 const projects = [
   {
-    name: "Coming soon",
-  },
-  /*  {
-    name: "Project 1",
+    name: "Pig Game",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
-  }, */
+      "The Pig Game is a dice game where players take turns rolling a single die. On their turn, a player can roll as many times as they want, accumulating points with each roll. However, if they roll a 1, they lose all points for that turn and their turn ends. They can choose to stop rolling at any time and bank their points. The first player to reach 100 points, wins the game.",
+    stack: ["JavaScript", "CSS"],
+    sourceCode: "https://github.com/agolik93/game",
+    livePreview: "https://augustingame.netlify.app/",
+  },
+  {
+    name: "Travel list",
+    description:
+      "A travel list app with the ability to add, remove, and check items",
+    stack: ["React", "CSS"],
+    sourceCode: "https://github.com/agolik93/travel",
+    livePreview: "https://travelistaugu.netlify.app/",
+  },
 ];
 
 const skills = [
