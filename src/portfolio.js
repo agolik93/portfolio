@@ -33,6 +33,13 @@ const projects = [
     sourceCode: "https://github.com/agolik93/travel",
     livePreview: "https://travelistaugu.netlify.app/",
   },
+  {
+    name: "GitHub Search",
+    description: "Search GitHub for users",
+    stack: ["React", "tailwind"],
+    sourceCode: "https://github.com/agolik93/githubTrazilica",
+    livePreview: "https://githubsearchaug.netlify.app/",
+  },
 ];
 
 const skills = [
