@@ -36,7 +36,7 @@ const projects = [
   {
     name: "GitHub Search",
     description: "Search GitHub for users",
-    stack: ["React", "tailwind"],
+    stack: ["React", "Tailwind"],
     sourceCode: "https://github.com/agolik93/githubTrazilica",
     livePreview: "https://githubsearchaug.netlify.app/",
   },
@@ -45,6 +45,7 @@ const projects = [
 const skills = [
   "HTML",
   "CSS",
+  "Tailwind",
   "JavaScript",
   "TypeScript",
   "React",
