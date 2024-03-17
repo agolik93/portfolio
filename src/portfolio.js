@@ -9,7 +9,7 @@ const about = {
   description:
     "My name is Augustin Aljinović, and I am a passionate and motivated beginner in the world of frontend development. I began my journey into programming about a year ago with the goal of turning my passion for technology into a career. Through continuous learning and hands-on experience, I have mastered the basics of key technologies necessary for success as a frontend developer.I obtained a significant portion of my formal frontend education by attending courses, such as Algebra's React JS and Digitalna Dalmacija's frontend courses. However, an important part of my learning journey also involved independent project work and online courses on platforms like Udemy.I am ready for the next step in my career, where I can apply my knowledge and skills in practice and continue to grow and learn as part of a dynamic team.",
   resume:
-    "https://drive.google.com/file/d/1oZq09o7uwZgN4uTerpJ1KV2EYYVP3Kyl/view?usp=drive_link",
+    "https://drive.google.com/file/d/1XZHOcKat5lYI74LsaxBh91sxNJGf5nf9/view?usp=drive_link",
   social: {
     linkedin: "https://hr.linkedin.com/in/augustin-aljinovic-691064203",
     github: "https://github.com/agolik93",
