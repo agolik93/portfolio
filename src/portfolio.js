@@ -18,8 +18,8 @@ const about = {
 
 const projects = [
   {
-    name: "Imdb Search",
-    description: "Simple form that denies submit before all fields are filled.",
+    name: "IMDb Search",
+    description: "IMDb search with ability to store and rate wacthed movies",
     stack: ["CSS", "React", "JavaScript"],
     sourceCode: "https://github.com/agolik93/IMDB",
     livePreview: "https://imdbaug.netlify.app/",
