@@ -31,14 +31,7 @@ const projects = [
     sourceCode: "https://github.com/agolik93/form2",
     livePreview: "https://formaugu.netlify.app/",
   },
-  {
-    name: "Pig Game",
-    description:
-      "The Pig Game is a dice game where players take turns rolling a single die. On their turn, a player can roll as many times as they want, accumulating points with each roll. However, if they roll a 1, they lose all points for that turn and their turn ends. They can choose to stop rolling at any time and bank their points. The first player to reach 100 points, wins the game.",
-    stack: ["JavaScript", "CSS"],
-    sourceCode: "https://github.com/agolik93/game",
-    livePreview: "https://augustingame.netlify.app/",
-  },
+
   {
     name: "Travel list",
     description:
@@ -53,6 +46,14 @@ const projects = [
     stack: ["React", "Tailwind"],
     sourceCode: "https://github.com/agolik93/githubTrazilica",
     livePreview: "https://githubsearchaug.netlify.app/",
+  },
+  {
+    name: "Pig Game",
+    description:
+      "The Pig Game is a dice game where players take turns rolling a single die. On their turn, a player can roll as many times as they want, accumulating points with each roll. However, if they roll a 1, they lose all points for that turn and their turn ends. They can choose to stop rolling at any time and bank their points. The first player to reach 100 points, wins the game.",
+    stack: ["JavaScript", "CSS"],
+    sourceCode: "https://github.com/agolik93/game",
+    livePreview: "https://augustingame.netlify.app/",
   },
 ];
 
