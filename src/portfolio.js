@@ -18,11 +18,11 @@ const about = {
 
 const projects = [
   {
-    name: "Form",
+    name: "Imdb Search",
     description: "Simple form that denies submit before all fields are filled.",
-    stack: ["Typescript", "CSS", "Tailwind", "React"],
-    sourceCode: "https://github.com/agolik93/form2",
-    livePreview: "https://formaugu.netlify.app/",
+    stack: ["CSS", "React", "JavaScript"],
+    sourceCode: "https://github.com/agolik93/IMDB",
+    livePreview: "https://imdbaug.netlify.app/",
   },
   {
     name: "Form",
